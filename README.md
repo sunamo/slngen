@@ -1,5 +1,9 @@
 # SlnGen
 
+## Short description
+
+Fork Microsoft SlnGen, generátoru Visual Studio solution souborů z MSBuild projektů. Pomáhá škálovat solution u velkých stromů projektů. Kód je cizí, bez vlastních úprav.
+
 [![Build Status](https://devdiv.visualstudio.com/DevDiv/_apis/build/status/1ES/microsoft.slngen%20Official?branchName=master)](https://devdiv.visualstudio.com/DevDiv/_build/latest?definitionId=12516&branchName=master)
 
 ## Overview
