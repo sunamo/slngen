@@ -1,0 +1,28 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/FAQ.md" />
+    <File Path="docs/README.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="azure-pipelines-official.yml" />
+    <File Path="azure-pipelines.yml" />
+    <File Path="CONTRIBUTING.md" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Build.rsp" />
+    <File Path="Directory.Build.targets" />
+    <File Path="Directory.Packages.props" />
+    <File Path="Directory.Solution.targets" />
+    <File Path="global.json" />
+    <File Path="LICENSE.txt" />
+    <File Path="NuGet.config" />
+    <File Path="README.md" />
+    <File Path="stylecop.json" />
+    <File Path="version.json" />
+  </Folder>
+  <Project Path="src/Microsoft.VisualStudio.SlnGen.Extension/Microsoft.VisualStudio.SlnGen.Extension.csproj" />
+  <Project Path="src/Microsoft.VisualStudio.SlnGen.Tool/Microsoft.VisualStudio.SlnGen.Tool.csproj" />
+  <Project Path="src/Microsoft.VisualStudio.SlnGen.UnitTests/Microsoft.VisualStudio.SlnGen.UnitTests.csproj" />
+  <Project Path="src/Microsoft.VisualStudio.SlnGen/Microsoft.VisualStudio.SlnGen.csproj" />
+  <Project Path="src/SlnGen.Corext/SlnGen.Corext.csproj" />
+</Solution>
